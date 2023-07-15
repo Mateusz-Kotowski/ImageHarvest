@@ -1,0 +1,14 @@
+. global/zmienne.sh
+. funkcje/inputbox.sh 
+. funkcje/sprawdzanie.sh
+. funkcje/checklist.sh
+. funkcje/linki.sh
+. funkcje/koniec.sh
+. funkcje/case_1.sh
+. funkcje/obrazki.sh
+. funkcje/grupowanie.sh
+. funkcje/pliki.sh
+. funkcje/usun.sh
+. funkcje/msgbox.sh
+. funkcje/yesno.sh
+. funkcje/zakonczenie.sh
